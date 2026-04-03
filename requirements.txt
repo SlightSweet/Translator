@@ -1,0 +1,8 @@
+# requirements.txt
+pillow>=10.0
+imagehash>=4.3
+keyboard>=0.13
+anthropic>=0.25       # Claude 翻译后端（可选）
+manga-ocr>=0.1.9      # 日文 OCR（推荐）
+# pytesseract         # 通用 OCR 替代（可选）
+# deepl               # DeepL 翻译后端（可选）
